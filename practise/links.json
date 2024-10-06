@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Home",
+        "url": "#home"
+    },
+    {
+        "name": "About",
+        "url": "#about"
+    },
+    {
+        "name": "Services",
+        "url": "#service"
+    },
+    {
+        "name": "Projects",
+        "url": "#project"
+    },
+    {
+        "name": "Contact",
+        "url": "https://api.whatsapp.com/send?phone=919987337815&text=Hello%20Faizan.%20Hope%20You%20Are%20Good"
+    },
+    {
+        "name": "Projects",
+        "url": "#project"
+    },
+    {
+        "name": "View Certificate",
+        "url": "https://drive.google.com/file/d/1vb2jVfDcSVFCo7ZaogkpSRr1MazwwWFb/view?usp=sharing"
+    },
+    {
+        "name": "View Certificate",
+        "url": "https://drive.google.com/file/d/16T4bu3Rb1K2xqVBrGdVwIGk5nysTXlab/view?usp=sharing"
+    },
+    {
+        "name": "View Certificate",
+        "url": "https://drive.google.com/file/d/1JlfEGZvjq6d63XqCwsew_UKttwauQdtu/view?usp=sharing"
+    },
+    {
+        "name": "View Certificate",
+        "url": "https://drive.google.com/file/d/12bE5RdgKwyvfqoD8XiYU9dLwffZmi7Zs/view?usp=sharing"
+    },
+    {
+        "name": "View Certificate",
+        "url": "https://drive.google.com/file/d/1ZtF-_7Opso8KrLdhOUJY_DuKOengKNje/view?usp=sharing"
+    },
+    {
+        "name": "View Certificate",
+        "url": "https://drive.google.com/file/d/1GR0i6SsWCyRoGMlHm9gEVvCARb9M3XGp/view?usp=sharing"
+    },
+    {
+        "name": "View Certificate",
+        "url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~64DQPXYHFP3D/CERTIFICATE_LANDING_PAGE~64DQPXYHFP3D.jpeg"
+    },
+    {
+        "name": "Source Code",
+        "url": "https://github.com/faizan619/Codo-File"
+    },
+    {
+        "name": "Live Preview",
+        "url": "https://codofile-85b0c.web.app/"
+    },
+    {
+        "name": "Source Code",
+        "url": "https://github.com/faizan619/QRCodeGenerator"
+    },
+    {
+        "name": "Live Preview",
+        "url": "https://wondrous-hamster-93ebe9.netlify.app/"
+    },
+    {
+        "name": "Source Code",
+        "url": "https://github.com/faizan619/Public-BlogPage"
+    },
+    {
+        "name": "Live Preview",
+        "url": "https://blog.faizanalam.tech"
+    },
+    {
+        "name": "Source Code",
+        "url": "https://github.com/faizan619/DaBoys-ChatApp"
+    },
+    {
+        "name": "Live Preview",
+        "url": "https://da-boys.onrender.com"
+    },
+    {
+        "name": "Chat",
+        "url": "https://api.whatsapp.com/send?phone=919987337815&text=Hello%20Faizan.%20I%20Have%20a%20Project%20for%20WEB Development"
+    },
+    {
+        "name": "Chat",
+        "url": "https://api.whatsapp.com/send?phone=919987337815&text=Hello%20Faizan.%20I%20Have%20a%20Project%20for%20API Development"
+    },
+    {
+        "name": "Chat",
+        "url": "https://api.whatsapp.com/send?phone=919987337815&text=Hello%20Faizan.%20I%20Have%20a%20Project%20for%20Prototyping and Wireframming"
+    },
+    {
+        "name": "+91 9987337815",
+        "url": "tel:+91 9987337815"
+    },
+    {
+        "name": "alamf6023@gmail.com",
+        "url": "mailto:alamf6023@gmail.com"
+    },
+    {
+        "name": "Contact through WhatsApp",
+        "url": "https://api.whatsapp.com/send?phone=919987337815&text=Hello%20Faizan.%20How%20are%20You%20"
+    },
+    {
+        "name": "FAFaizan Alam",
+        "url": "/"
+    },
+    {
+        "name": "Online Compiler",
+        "url": "https://codofile-85b0c.web.app"
+    },
+    {
+        "name": "Chatting App",
+        "url": "https://www.da-boys.onrender.com"
+    },
+    {
+        "name": "QR-Code Scanner",
+        "url": "https://wondrous-hamster-93ebe9.netlify.app"
+    },
+    {
+        "name": "Blog Website",
+        "url": "http://blog.faizanalam.tech"
+    },
+    {
+        "name": "Github Profile",
+        "url": "https://www.github.com/faizan619"
+    },
+    {
+        "name": "LinkedIn Profile",
+        "url": "https://www.linkedin.com/in/faizan-alam-/"
+    },
+    {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/@codofile1909"
+    },
+    {
+        "name": "",
+        "url": "mailto:alamf6023@gmail.com"
+    },
+    {
+        "name": "",
+        "url": "https://www.github.com/faizan619"
+    },
+    {
+        "name": "",
+        "url": "https://www/instagram.com/faizan_alam_._"
+    }
+]
